@@ -1,5 +1,5 @@
 import {App, Platform, Config} from 'ionic/ionic';
-import {MapPage} from './pages/map';
+import {MapPage} from './pages/map/map';
 
 @App({
   template: `

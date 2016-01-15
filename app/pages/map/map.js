@@ -1,7 +1,7 @@
 import {Page,Geolocation} from 'ionic/ionic';
 
 @Page({
-  templateUrl: 'app/pages/map/map.html',
+  templateUrl: 'build/pages/map/map.html',
 })
 export class MapPage {
   constructor() {
